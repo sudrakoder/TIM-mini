@@ -1,3 +1,7 @@
+Updating Therianulf TIM-mini for 1.189 playtest
+
+Modified from: https://github.com/Therianulf/TIM-mini
+
 # TIM-mini
 a mini version of tim
 
